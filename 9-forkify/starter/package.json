@@ -11,7 +11,8 @@
   "author": "Teddy Williams",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "jquery": "^3.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
